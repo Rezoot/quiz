@@ -1,0 +1,240 @@
+﻿Wadą układów z pętlą sprzężenia zwrotnego w porównaniu do układów otwartych jest
+a. możliwość utraty stabilności układu zamkniętego
+b. Większa wrażliwość układu zamkniętego na zmiany jego parametrów
+c. Większa wrażliwość układu zamkniętego na zakłócenia
+d. Konieczność stosowania większych napięć zasilających dla układu zamkniętego.
+a. możliwość utraty stabilności układu zamkniętego
+Transmitancją stacjonarnego, liniowego układu przyczynowego jest
+a. Stosunek transformaty Laplace’a sygnału wyjściowego do transformaty sygnału wejściowego przy założeniu zerowej wartości początkowej sygnału na wyjściu układu
+b. Odwrotna transformata Laplace’a odpowiedzi skokowej układu
+c. Transformata Laplace’a odpowiedzi impulsowej układu
+d. transmitancja może być zdefiniowana jedynie dla układów nieliniowych
+a. Stosunek transformaty Laplace’a sygnału wyjściowego do transformaty sygnału wejściowego przy założeniu zerowej wartości początkowej sygnału na wyjściu układu
+Odpowiedź w dziedzinie czasu stacjonarnego, liniowego układu przyczynowego to:
+a. Splot jego odpowiedzi impulsowej oraz sygnału pobudzenia
+b. Splot jego odpowiedzi skokowej i sygnału pobudzenia
+c. Iloczyn jego odpowiedzi impulsowej i sygnału pobudzenia
+d. Iloczyn jego transmitancji i transformaty pobudzenia
+a. Splot jego odpowiedzi impulsowej oraz sygnału pobudzenia
+Liniowy układ stacjonarny o 2 wejściach i 3 wyjściach można opisać za pomocą macierzy:
+a. Dwóch transmitancji
+b. Trzech transmitancji
+c. Sześciu transmitancji
+d. Transmitancja dotyczy tylko układów o jednym wejściu, taki układ można opisać jedynie za pomocą równań
+c. Sześciu transmitancji
+O odpowiedzi impulsowej liniowego, przyczynowego układu stacjonarnego możemy powiedzieć, że:
+a. Nie można jej określić dla układów niestabilnych
+b. Jest splotem impulsu jednostkowego i transmitancji układu
+c. Jest iloczynem impulsu jednostkowego i transmitancji układu
+d. Jest odwrotną transformatą Laplace’a transmitancji
+d. Jest odwrotną transformatą Laplace’a transmitancji
+Pojemność cieplna ciała informuje nas o:
+a. Objętości ciała w danej temperaturze
+b. Ilości ciepła, która należy dostarczyć do ciała, aby ogrzać je o jednostkę temperatury
+c. Ilości ciepła, która należy dostarczyć do jednego kilograma ciała, aby ogrzać je o jednostkę temperatury
+d. Energii, jaka dostarczona do ciała spowoduje zwiększenie temperatury 1kg ciała o 1K
+b. Ilości ciepła, która należy dostarczyć do ciała, aby ogrzać je o jednostkę temperatury
+Metoda linearyzacji układu stacjonarnego w dowolnym punkcie x0 może być zastosowana dla układu:
+a. Z regulatorem przekaźnikowym
+b. Z termostatem z histerezą
+c. Opisanego równaniem: y = 7e^(x+1) ( y – sygnał wyjściowy, x – sygnał wejściowy )
+d. Opisanego równaniem: y = |x| ( y – sygnał wyjściowy, x – sygnał wejściowy )
+c. Opisanego równaniem: y = 7e^(x+1) ( y – sygnał wyjściowy, x – sygnał wejściowy )
+Odpowiedzią w stanie ustalonym, stacjonarnego, liniowego układu dynamicznego na pobudzenie sinusoidalne jest zawsze
+a. Sygnał sinusoidalny o tej samej amplitudzie co sygnał wejściowy lecz innej fazie
+b. Sygnał sinusoidalny o tej samej amplitudzie co sygnał wejściowy oraz tej samej fazie
+c. Sygnał sinusoidalny o tej samej pulsacji co sygnał wejściowy
+d. Sygnał sinusoidalny o pulsacji zależnej od transmitancji widmowej układu
+c. Sygnał sinusoidalny o tej samej pulsacji co sygnał wejściowy
+Metoda linearyzacji układu stacjonarnego w dowolnym punkcie x0 może być zastosowana dla układu:
+a. Z regulatorem przekaźnikowym
+b. Z termostatem z histerezą
+c. Opisanego równaniem: y = x^2 ( y – sygnał wyjściowy, x – sygnał wejściowy )
+d. Opisanego równaniem: y = sin|x| ( y – sygnał wyjściowy, x – sygnał wejściowy )
+c. Opisanego równaniem: y = x^2 ( y – sygnał wyjściowy, x – sygnał wejściowy )
+O układzie o transmitancji G(s)=k/[s(s+5)] objętym jednostkowym sprzężeniem zwrotnym, pobudzonym skokiem jednostkowym, możemy powiedzieć, że:
+a. W stanie ustalonym uchyb sterowania jest zerowy
+b. W stanie ustalonym uchyb sterowania jest większy od zera
+c. W stanie ustalonym uchyb sterowania jest tym większy, im większe jest wzmocnienie k
+d. Układ jest niestabilny, więc stan ustalony nie wystąpi
+a. W stanie ustalonym uchyb sterowania jest zerowy
+O układzie o transmitancji G(s)=k/[s(s+5)] objętym jednostkowym sprzężeniem zwrotnym, pobudzonym rampą, możemy powiedzieć, że
+a. W stanie ustalonym uchyb sterowania jest zerowy
+b. W stanie ustalonym uchyb sterowania jest większy od zera
+c. W stanie ustalonym uchyb sterowania jest tym większy, im większe jest wzmocnienie k
+d. Układ jest niestabilny, więc stan ustalony nie wystąpi
+b. W stanie ustalonym uchyb sterowania jest większy od zera
+O układzie o transmitancji G(s)=k/(s+5) objętym jednostkowym sprzężeniem zwrotnym, pobudzonym skokiem jednostkowym, możemy powiedzieć, że:
+a. W stanie ustalonym uchyb sterowania jest zerowy
+b. W stanie ustalonym uchyb sterowania jest większy od zera
+c. W stanie ustalonym uchyb sterowania jest tym większy, im większe jest wzmocnienie k
+d. Układ jest niestabilny, więc stan ustalony nie wystąpi
+b. W stanie ustalonym uchyb sterowania jest większy od zera
+O układzie o transmitancji G(s)=k/(s+5) objętym jednostkowym sprzężeniem zwrotnym, pobudzonym rampą, możemy powiedzieć, że
+a. W stanie ustalonym uchyb sterowania jest zerowy
+b. W stanie ustalonym uchyb sterowania jest większy od zera
+c. W stanie ustalonym uchyb sterowania jest tym większy, im większe jest wzmocnienie k
+d. Uchyb będzie narastał do nieskończoności
+d. Uchyb będzie narastał do nieskończoności
+O układzie danym transmitancją G(s)=1/(s^2+s) możemy powiedzieć, że
+a. Jego odpowiedź skokowa będzie ograniczona
+b. Jest stabilny w sensie BIBO
+c. Po objęciu go jednostkowym, ujemnym sprzężeniem zwrotnym otrzymany układ nie będzie stabilny
+d. Po objęciu go jednostkowym, ujemnym sprzężeniem zwrotnym otrzymany układ zapewni zerowy uchyb ustalony w przypadku pobudzenia go skokiem jednostkowym
+d. Po objęciu go jednostkowym, ujemnym sprzężeniem zwrotnym otrzymany układ zapewni zerowy uchyb ustalony w przypadku pobudzenia go skokiem jednostkowym
+O układzie danym transmitancją G(s)=1/(s+1) możemy powiedzieć, że
+a. Jego odpowiedź skokowa będzie ograniczona
+b. Nie jest stabilny w sensie BIBO
+c. Po objęciu go jednostkowym, ujemnym sprzężeniem zwrotnym otrzymany układ nie będzie stabilny
+d. Po objęciu go jednostkowym, ujemnym sprzężeniem zwrotnym otrzymany układ zapewni zerowy uchyb ustalony w przypadku  pobudzenia go skokiem jednostkowym
+a. Jego odpowiedź skokowa będzie ograniczona
+O odpowiedzi skokowej układu o transmitancji G(s)=1/(s+1)^2 możemy powiedzieć, że
+a. Zawiera szczyt rezonansowy w punkcie ωr=1
+b. Występuje w niej przeregulowanie
+c. Układ jest niestabilny ze względu na podwójny biegun więc wystąpią w niej narastające oscylacje
+d. Jest to odpowiedź aperiodyczna krytyczna
+d. Jest to odpowiedź aperiodyczna krytyczna
+O odpowiedzi skokowej w stanie ustalonym układu o transmitancji G(s)=1/[(s+j)(s-j)] możemy powiedzieć, że
+a. Zawiera składnik sinusoidalny o stałej amplitudzie
+b. Występuje w niej przeregulowanie
+c. Układ jest niestabilny ze względu na bieguny na osi urojonej, więc wystąpią w niej narastające oscylacje
+d. Jest to odpowiedź aperiodyczna krytyczna
+a. Zawiera składnik sinusoidalny o stałej amplitudzie
+O odpowiedzi skokowej układu o transmitancji G(s)=1/[(s+j+1)(s-j+1)] możemy powiedzieć, że:
+a. Zawiera składnik sinusoidalny o stałej amplitudzie
+b. Występuje w niej przeregulowanie
+c. Układ jest niestabilny ze względu na bieguny zespolone, więc wystąpią w niej narastające oscylacje
+d. Jest to odpowiedź aperiodyczna krytyczna
+b. Występuje w niej przeregulowanie
+O odpowiedzi skokowej układu o transmitancji G(s)=1/[(s+j-1)(s-j-1)] możemy powiedzieć, że
+a. Zawiera składnik sinusoidalny o stałej amplitudzie
+b. Występuje w niej przeregulowanie
+c. Układ jest niestabilny, więc wystąpią w niej narastające oscylacje
+d. Jest to odpowiedź aperiodyczna krytyczna
+c. Układ jest niestabilny, więc wystąpią w niej narastające oscylacje
+O odpowiedzi skokowej układu o transmitancji G(s)=1/[(s-1)(s+1)] możemy powiedzieć, że:
+a. Zawiera składnik sinusoidalny o stałej amplitudzie
+b. Występuje w niej przeregulowanie
+c. Układ jest niestabilny i wystąpią w niej narastające oscylacje
+d. Układ jest niestabilny i wystąpi w niej składnik narastający eksponencjalnie
+d. Układ jest niestabilny i wystąpi w niej składnik narastający eksponencjalnie
+Odpowiedzią w stanie ustalonym, stacjonarnego, liniowego układu dynamicznego na pobudzenie sinusoidalne jest zawsze
+a. sygnał sinusoidalny o tej samej amplitudzie co sygnał wejściowy lecz innej fazie
+b. sygnał sinusoidalny o tej samej amplitudzie co sygnał wejściowy oraz tej samejfazie
+c. sygnał sinusoidalny o tej samej pulsacji i fazie co sygnał wejściowy
+d. sygnał sinusoidalny o amplitudzie i fazie zależnej od transmitancji widmowej układu
+d. sygnał sinusoidalny o amplitudzie i fazie zależnej od transmitancji widmowej układu
+Transmitancją widmową liniowego układu stacjonarnego nazywamy
+a. stosunek amplitudy sygnału wyjściowego do amplitudy wejściowego sygnału sinusoidalnego przy założeniu zerowych warunków początkowych
+b. stosunek transformaty Fouriera sygnału na wyjściu układu do transformaty sygnału na jego wejściu przy założeniu zerowych warunków początkowych
+c. stosunek transformaty Laplace’a sygnału na wyjściu układu do transformaty sygnału na jego wejściu przy założeniu zerowych warunków początkowych
+d. nie można zdefiniować transmitancji widmowej dla układów liniowych
+b. stosunek transformaty Fouriera sygnału na wyjściu układu do transformaty sygnału na jego wejściu przy założeniu zerowych warunków początkowych
+Uchybem prędkościowym nazywamy
+a. różnicę pomiędzy sygnałem zadanym i sygnałem na wyjściu układu w przypadku pobudzenia sygnałem r(t)=t ∙1(t)
+b. różnicę pomiędzy sygnałem zadanym i sygnałem na wyjściu układu w przypadku pobudzenia sygnałem r(t)= 1(t)
+c. uchyb w stanie ustalonym dla pobudzenia impulsem jednostkowym
+d. odwrotną transformatę Laplace’a sygnału 1/s
+a. różnicę pomiędzy sygnałem zadanym i sygnałem na wyjściu układu w przypadku pobudzenia sygnałem r(t)=t ∙1(t)
+Kryterium stabilności Nyquista pozwala na określenie
+a. czy układ zamknięty będzie stabilny na podstawie wielomianu charakterystycznego układu otwartego
+b. czy układ zamknięty będzie stabilny na charakterystyk częstotliwościowych układu otwartego
+c. czy układ zamknięty będzie stabilny w zależności od miejsca przyłożenia zakłóceń
+d. czy układ zamknięty będzie stabilny na podstawie jego charakterystyk częstotliwościowych
+b. czy układ zamknięty będzie stabilny na charakterystyk częstotliwościowych układu otwartego
+Układ liniowy jest stabilny w sensie BIBO gdy
+a. jego transmitancja nie posiada zer w prawej półpłaszczyźnie
+b. jego transmitancja nie posiada biegunów w lewej półpłaszczyźnie
+c. jego odpowiedź na dowolny sygnał o ograniczonej wartości jest również ograniczona
+d. jego transmitancja posiada bieguny w na osi liczb rzeczywistych
+c. jego odpowiedź na dowolny sygnał o ograniczonej wartości jest również ograniczona
+O układzie liniowym mówimy, że jest totalnie stabilny gdy:
+a. jego odpowiedź na dowolny sygnał o ograniczonej wartości jest również ograniczona
+b. wszystkie występujące w nim sygnały są ograniczone, jeśli sygnały wejściowe są ograniczone
+c. bieguny jego transmitancji znajdują się w lewej, otwartej półpłaszczyźnie
+d. wszystkie współczynniki wielomianu mianownika jego transmitancji mają ten sam znak
+b. wszystkie występujące w nim sygnały są ograniczone, jeśli sygnały wejściowe są ograniczone
+O liniowym, stacjonarnym, autonomicznym układzie opisanym równaniami stanu mówimy, że jest stabilny asymptotycznie, gdy
+a. dla dowolnych warunków początkowych, jego wektor stanu dąży do wektora zerowego dla t->∞
+b. jest stabilny w sensie BIBO
+c. wartości własne jego macierzy procesu (A) są dowolnymi liczbami rzeczywistymi
+d. elementy jego wektora macierzy wyjścia (C) leżą w lewej półpłaszczyżnie
+a. dla dowolnych warunków początkowych, jego wektor stanu dąży do wektora zerowego dla t->∞
+Warunkiem koniecznym stabilności w kryterium Routha-Hurwitza jest, aby
+a. wszystkie współczynniki wielomianu licznika transmitancji istniały i były tych samych  znaków
+b. wszystkie współczynniki równania charakterystycznego układu istniały i były tych samych znaków
+c. w pierwszej kolumnie macierzy Routha-Hurwitza występują elementy o tych samych znakach lub zero
+d. w pierwszej kolumnie macierzy Routha-Hurwitza nie może wystąpić zero
+b. wszystkie współczynniki równania charakterystycznego układu istniały i były tych samych znaków
+Wystąpienie wiersza samych zer w tablicy Routha-Hurwitza świadczy o tym, że
+a. transmitancja układu posiada zera na osi urojonej
+b. nastąpiła kompensacja zer transmitancji układu z biegunami
+c. o stabilności układu decydują miejsca zerowe wielomianu pomocniczego
+d. wielomian pomocniczy posiada miejsca zerowe na osi urojonej
+d. wielomian pomocniczy posiada miejsca zerowe na osi urojonej
+O szybkości narastania odpowiedzi jednostkowej układu II rzędu o biegunach zespolonych sprzężonych decyduje
+a. część rzeczywista biegunów układu
+b. część urojona biegunów układu
+c. moduł biegunów układu
+d. argument biegunów układu
+c. moduł biegunów układu
+O wielkości przeregulowania odpowiedzi jednostkowej układu II rzędu o biegunach zespolonych sprzężonych decyduje
+a. część rzeczywista biegunów układu
+b. jeśli bieguny są zespolone to przeregulowanie nie występuje
+c. moduł biegunów układu
+d. argument biegunów układu
+d. argument biegunów układu
+Z linii pierwiastkowych możemy odczytać
+a. dla jakiej wartości wzmocnienia układ będzie stabilny
+b. zapas modułu i fazy dla układu po zamknięciu pętli sprzężenia zwrotnego
+c. pasmo przenoszenia układu
+d. wartość uchybu przyśpieszeniowego
+a. dla jakiej wartości wzmocnienia układ będzie stabilny
+Punkt rozejścia/zejścia się linii pierwiastkowych informuje nas o tym, że:
+a. układ jest stabilny z sensie BIBO
+b. w układzie wystąpią drgania o pulsacji zależnej od punktu rozejścia/zejścia sięlinii
+c. w miejscu rozejścia/zejścia się linii wystąpi wielokrotny biegun
+d. jest to punkt przecięcia się asymptot
+c. w miejscu rozejścia/zejścia się linii wystąpi wielokrotny biegun
+Część linii pierwiastkowych dąży do asymptot dla wzmocnienia dążącego do nieskończoności gdy
+a. liczba biegunów jest większa od liczby zer
+b. liczba biegunów jest równa liczbie zer
+c. układ jest niestabilny
+d. istnieje taka wartość wzmocnienia, że w tablicy Routha wielomianu układu zamkniętego wystąpi rząd samych zer
+a. liczba biegunów jest większa od liczby zer
+Na rysunku przedstawiono linie pierwiastkowe pewnego układu. Możemy o nim powiedzieć, że:
+a. układ ten jest stabilny dla dowolnego k
+b. w układzie tym nie wystąpią przeregulowania
+c. wraz ze wzrostem wzmocnienia rośnie szybkość układu
+d. dla wartości wzmocnienia dążących do nieskończoności odpowiedź impulsowa układu ma charakter narastających drgań
+b. w układzie tym nie wystąpią przeregulowania
+O układzie, który ma szerokie pasmo przenoszenia, możemy powiedzieć, że
+a. w stanie ustalonym zapewnia zerowy uchyb w odpowiedzi na skok jednostkowy
+b. jest odporny na zakłócenia wysokoczęstotliwościowe
+c. przeregulowanie jego odpowiedzi skokowej jest małe
+d. ma krótki czas narastania
+d. ma krótki czas narastania
+Czynnik (0.1s+1) znajdujący się w mianowniku pewnej transmitancji na asymptotycznych charakterystykach częstotliwościowych Bodego dla pulsacji ω>100sek-1 wprowadzi
+a. przesunięcie charakterystyki fazowej o -90°
+b. przesunięcie charakterystyki fazowej o -45°
+c. wzrost wzmocnienia z szybkością 20dB/dek
+d. spadek wzmocnienia o 3dB
+a. przesunięcie charakterystyki fazowej o -90°
+Czynnik (s+10) znajdujący się w liczniku pewnej transmitancji na asymptotycznych charakterystykach częstotliwościowych Bodego dla pulsacji ω>100sek-1 wprowadzi
+a. przesunięcie charakterystyki fazowej o 90°
+b. przesunięcie charakterystyki fazowej o -45°
+c. spadek wzmocnienia z szybkością 20dB/dek
+d. spadek wzmocnienia o 3dB
+a. przesunięcie charakterystyki fazowej o 90°
+Czynnik s^2 znajdujący się w liczniku pewnej transmitancji na asymptotycznych charakterystykach częstotliwościowych Bodego dla pulsacji dowolnej pulsacji wprowadzi
+a. przesunięcie charakterystyki fazowej o 180°
+b. przesunięcie charakterystyki fazowej o 90°
+c. przesunięcie charakterystyki fazowej o -90°
+d. spadek wzmocnienia z szybkością 20dB/dek
+a. przesunięcie charakterystyki fazowej o 180°
+Czynnik (s+10) znajdujący się w mianowniku pewnej transmitancji na asymptotycznych charakterystykach częstotliwościowych Bodego dla pulsacji ω>1sek-1 wprowadzi
+a. przesunięcie charakterystyki fazowej o 90°
+b. przesunięcie charakterystyki fazowej o -45°
+c. spadek wzmocnienia z szybkością 20dB/dek
+d. spadek wzmocnienia o 20dB
+c. spadek wzmocnienia z szybkością 20dB/dek
